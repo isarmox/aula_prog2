@@ -1,0 +1,19 @@
+{
+  "name": "aula_prog2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isarmox/aula_prog2.git"
+  },
+  "author": "isadora ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isarmox/aula_prog2/issues"
+  },
+  "homepage": "https://github.com/isarmox/aula_prog2#readme"
+}
